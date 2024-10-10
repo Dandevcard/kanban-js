@@ -1,6 +1,6 @@
 # Meu Projeto kanban
 
-![Descrição da Imagem](./src/img/preview.png)
+![Descrição da Imagem](./src/img/imagem.jpeg)
 
 ## Como usar
 1. Clone o repositório
